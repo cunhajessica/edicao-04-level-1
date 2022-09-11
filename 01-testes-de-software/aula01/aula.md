@@ -11,8 +11,8 @@ Assista aos vídeos:
 ---
 
 #### _Material complementar:_
-* [TESTE DE SOFTWARE: por onde começar](https://youtu.be/NnamjfPYuiY)
-* [Um guia para quem quer começar na área de TESTE DE SOFTWARE](https://youtu.be/YMJX3fROIec)
+* [TESTE DE SOFTWARE: por onde começar](https://youtu.be/NnamjfPYuiY) ✅
+* [Um guia para quem quer começar na área de TESTE DE SOFTWARE](https://youtu.be/YMJX3fROIec) ✅
 
 ---
 
