@@ -28,20 +28,20 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 ---
 _Minhas respostas:_
 
-### Exemplo de cenário passo a passo:
+* Exemplo de cenário passo a passo:
 
-#### Acessar o site do Google
+Título: Passos para acessar o site do Google
 
-Passos | Descrição                                                                  | Resultado                                 |
-1      | ----------------------------------------------                             | ----------------------------------------- |
-2      | Acessar a página de login do Google                                        | Devo ser direcionado para a tela de login |
-3      | No campo onde menciona "email ou telefone" incluir com a informação válida | Não deve ocorrer erro                     |
-4      | Clicar no botão "Proxima"                                                  | Devo ser direcionado para a tela de senha |
-5      | No campo "senha" incluir um valor válido                                   | Não deve ocorrer erro                     |
-6      | Clicar no botão "Proxima"                                                  | Devo ser direcionado para a aplicação     |
+Passos | Descrição                                                                   | Resultado                                 |
+------ | --------------------------------------------------------------------------- | ----------------------------------------- |
+1      | Acessar a página de login do Google                                         | Devo ser direcionado para a tela de login |
+2      | No campo onde menciona "email ou telefone" incluir com a informação válida  | Não deve ocorrer erro                     |
+3      | Clicar no botão "Próxima"                                                   | Devo ser direcionado para a tela de senha |
+4      | No campo "senha" incluir um valor válido                                    | Não deve ocorrer erro                     |
+5      | Clicar no botão "Próxima"                                                   | Devo ser direcionado para a aplicação     |
 
 
-### Exemplo de cenário utilizando Gherkin:
+* Exemplo de cenário utilizando Gherkin:
 
 ```
 Cenário: Efetuar o login no site do Google
