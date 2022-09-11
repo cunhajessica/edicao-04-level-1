@@ -2,8 +2,8 @@
 
 Assista aos vídeos:
 
-  1. [Planejamento de Testes](https://youtu.be/XY-oElwC9VY)
-  2. [Análise e Modelagem de Testes](https://youtu.be/BiU-m3ie-5A)
+  1. [Planejamento de Testes](https://youtu.be/XY-oElwC9VY) ✅
+  2. [Análise e Modelagem de Testes](https://youtu.be/BiU-m3ie-5A) ✅
 
 > É **#fundamental** que você assista aos vídeos.
 
@@ -18,6 +18,11 @@ Assista aos vídeos:
 Não há resposta certa ou errada. 😉
 
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
+
+---
+_Minhas respostas:_
+1. Exemplos de Técnicas de planejamento: Pareto e MindMap.
+2. Exemplos de artefatos/documentos possíveis para a modelagem de testes: Caso de teste, Mapa mental e Diagramas.
 
 ---
 
