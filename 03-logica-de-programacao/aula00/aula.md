@@ -2,7 +2,7 @@
 
 Assista ao vídeo:
 
-  1. [O que é um Algoritmo?](https://www.youtube.com/watch?v=enQJN34Mh28)
+  1. [O que é um Algoritmo?](https://www.youtube.com/watch?v=enQJN34Mh28) ✅
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
