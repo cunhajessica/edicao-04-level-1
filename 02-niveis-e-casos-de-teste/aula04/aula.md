@@ -28,6 +28,29 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 ---
 _Minhas respostas:_
 
+### Exemplo de cenário passo a passo:
+
+#### Acessar o site do Google
+
+Passos | Descrição                                                                  | Resultado                                 |
+1      | ----------------------------------------------                             | ----------------------------------------- |
+2      | Acessar a página de login do Google                                        | Devo ser direcionado para a tela de login |
+3      | No campo onde menciona "email ou telefone" incluir com a informação válida | Não deve ocorrer erro                     |
+4      | Clicar no botão "Proxima"                                                  | Devo ser direcionado para a tela de senha |
+5      | No campo "senha" incluir um valor válido                                   | Não deve ocorrer erro                     |
+6      | Clicar no botão "Proxima"                                                  | Devo ser direcionado para a aplicação     |
+
+
+### Exemplo de cenário utilizando Gherkin:
+
+```
+Cenário: Efetuar o login no site do Google
+Dado que acessei o site
+E visualizei a tela de login
+Quando preencho o e-mail e senha
+Então é possível acessar a aplicação
+```
+
 ---
 
 👈 [Voltar para aula anterior](../aula03/aula.md)
