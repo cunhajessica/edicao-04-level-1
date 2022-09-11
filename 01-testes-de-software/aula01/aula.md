@@ -2,9 +2,9 @@
 
 Assista aos vídeos:
 
-  1. [Bugs Incríveis](https://youtu.be/t3v5r_SV4z0)
-  2. [O que é Teste de Software?](https://youtu.be/exof9oWgIIk)
-  3. [Por que o próprio Dev não testa?](https://youtu.be/AH0-IbmAStQ)
+  1. [Bugs Incríveis](https://youtu.be/t3v5r_SV4z0) ✅
+  2. [O que é Teste de Software?](https://youtu.be/exof9oWgIIk) ✅
+  3. [Por que o próprio Dev não testa?](https://youtu.be/AH0-IbmAStQ) ✅
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você assista o material complementar.
 
