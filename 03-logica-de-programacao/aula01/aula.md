@@ -22,7 +22,7 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 _Minha resposta:_
 
-''' Levantar da cama '''
+
 
 ---
 
