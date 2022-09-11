@@ -2,7 +2,7 @@
 
 Assista ao vídeo: 
 
-  1. [Introdução à lógica de programação](https://www.youtube.com/watch?v=HXddFUe6VPU)
+  1. [Introdução à lógica de programação](https://www.youtube.com/watch?v=HXddFUe6VPU) ✅
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
@@ -17,6 +17,12 @@ Caso queira ir um pouco além do que foi apresentado no vídeo, tente incluir as
 Não há resposta certa ou errada. 😉
 
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de algoritmo._ 
+
+---
+
+_Minha resposta:_
+
+''' Levantar da cama '''
 
 ---
 
