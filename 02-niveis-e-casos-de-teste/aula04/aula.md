@@ -2,8 +2,8 @@
 
 Assista aos vídeos:
 
-  1. [Como escrever casos de testes funcionais](https://youtu.be/BMeOV1-senE)
-  2. [BDD: da especificação a Automação](https://youtu.be/M32rwhjnsRI)
+  1. [Como escrever casos de testes funcionais](https://youtu.be/BMeOV1-senE) ✅
+  2. [BDD: da especificação a Automação](https://youtu.be/M32rwhjnsRI) ✅
 
 > É **#fundamental** que você assista aos vídeos. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
@@ -24,6 +24,9 @@ Elabore cenários simulando testes na funcionalidade de login do Google (exemplo
 Não há resposta certa ou errada. 😉
 
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
+
+---
+_Minhas respostas:_
 
 ---
 
