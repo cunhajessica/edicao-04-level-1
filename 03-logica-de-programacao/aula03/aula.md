@@ -1,4 +1,4 @@
-# Aula 03 - Hello World
+# Aula 03 - Hello World ✅
 
 Assista ao vídeo:
 
@@ -8,7 +8,7 @@ Assista ao vídeo:
 
 ---
 
-#### _Material complementar:_
+#### _Material complementar:_ ✅
 
 O vídeo apresenta uma ferramenta de aprendizagem online chamada [Repl.it](http://www.repl.it). O Repl permite que você crie códigos em diversas linguagens e os execute diretamente pelo navegador, sem precisar instalar nada no seu computador, o que facilita bastante para quem está aprendendo a programar. 
 
