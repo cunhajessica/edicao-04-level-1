@@ -2,7 +2,7 @@
 
 Assista ao vídeo:
 
-  1. [Como o computador entende as coisas?](https://www.youtube.com/watch?v=RRyzdrL3AZw)
+  1. [Como o computador entende as coisas?](https://www.youtube.com/watch?v=RRyzdrL3AZw) ✅
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
