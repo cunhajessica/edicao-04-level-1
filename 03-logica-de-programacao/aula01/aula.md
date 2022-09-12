@@ -22,7 +22,45 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 _Minha resposta:_
 
+```
+Se o despertador tocar Então
+  levantar da cama
+Senão
+  continuar dormindo torcendo pra não atrasar
 
+caminhar até o banheiro
+
+Se a porta estiver fechada Então
+  abrir a porta
+
+entrar no banheiro
+abrir a torneira
+lavar o rosto
+fechar a torneira
+pegar a toalha
+secar o rosto
+guardar a toalha
+pegar a escova de dente
+pegar a pasta de dente
+abrir a pasta de dente
+passar a pasta na escova
+fechar a pasta de dente
+escovar os dentes
+guardar a escova
+
+caminhar até a cozinha
+pegar a chaleira
+ligar a torneira
+colocar água na chaleira
+fechar a torneira
+colocar a chaleira com água em cima do fogão
+ligar o fogão
+
+Enquanto a água esquenta
+caminhar até o quarto
+trocar de roupa
+[...]
+```
 
 ---
 
