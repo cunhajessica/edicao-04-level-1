@@ -32,4 +32,42 @@ _**Após** ter feito o exercício, dá uma olhada na [nossa implementação](res
 
 ---
 
+_Minha Resposta:_
+
+```
+peso = 50
+altura = 1.58
+
+imc = (peso / altura **2)
+
+console.log("O seu IMC é:", imc.toFixed(2))
+
+grau = ""
+
+if (imc <=18.50){
+  grau = "Grau 0 | Classificação: Magreza"
+}
+else if (imc <=21.99){
+  grau = "Grau 1 | Classificação: Normal"
+}
+else if (imc <=29.99){
+  grau = "Grau 2 | Classificação: Sobrepeso"
+}
+else if (imc <=39.99){
+  grau = "Grau 3 | Classificação: Obesidade"
+}
+else {
+  grau = "Grau 4 | Classificação: Obesidade grave"
+}
+
+console.log("O seu grau de IMC é:", grau)
+
+if (imc > 29.99){
+  console.log("Cuidado! Você está acima do peso recomendado pela OMS.")
+}
+```
+
+
+---
+
 👈 [Voltar para aula anterior](../aula05/aula.md) ..... [Avançar para próxima aula](../aula07/aula.md) 👉
