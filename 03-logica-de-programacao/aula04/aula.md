@@ -70,4 +70,9 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 ---
 
+_Minha resposta:_
+
+
+---
+
 👈 [Voltar para aula anterior](../aula03/aula.md) ..... [Avançar para próxima aula](../aula05/aula.md) 👉
