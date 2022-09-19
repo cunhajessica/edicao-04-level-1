@@ -36,4 +36,26 @@ _**Após** ter feito os exercícios, você pode dar uma conferida em como [nós 
 
 ---
 
+_Minha Reposta:_
+
+1) 
+![resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula05/Aula05Execicio1.jpg)
+
+2)
+![resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula05/Aula05Execicio2.jpg)
+
+3)
+![resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula05/Aula05Execicio3.jpg)
+
+4)
+![resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula05/Aula05Execicio4.jpg)
+
+5)
+![resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula05/Aula05Execicio5.jpg)
+
+6)
+![resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula05/Aula05Execicio6.jpg)
+
+---
+
 👈 [Voltar para aula anterior](../aula04/aula.md) ..... [Avançar para próxima aula](../aula06/aula.md) 👉
