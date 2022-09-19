@@ -8,7 +8,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto procure assisti
 - [Aula #03 - Hello World](aula03/aula.md) ✅
 - [Aula #04 - Variáveis](aula04/aula.md) ✅
 - [Aula #05 - Operadores](aula05/aula.md) ✅
-- [Aula #06 - Condicionais](aula06/aula.md) 
+- [Aula #06 - Condicionais](aula06/aula.md) ✅
 - [Aula #07 - Vetores, matrizes e arrays](aula07/aula.md)
 - [Aula #08 - Estruturas de repetição](aula08/aula.md)
 - [Aula #09 - Funções, procedimentos e comentários](aula09/aula.md)
