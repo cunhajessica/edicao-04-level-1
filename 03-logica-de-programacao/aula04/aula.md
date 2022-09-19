@@ -72,6 +72,7 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 _Minha resposta:_
 
+![Resultado](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula04/RespostaAula4Variaveis.jpg)
 
 ---
 
