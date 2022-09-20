@@ -2,7 +2,7 @@
 
 Assista ao vídeo:
 
-  1. [Juntando tudo](https://www.youtube.com/watch?v=aWv871ExPqY)
+  1. [Juntando tudo](https://www.youtube.com/watch?v=aWv871ExPqY) ✅
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem importante)_ que você faça o exercício.
 
