@@ -2,9 +2,9 @@
 
 Assista aos vídeos:
 
-  1. [O que são Git e Github?](https://www.youtube.com/watch?v=P4BNi_yPehc)
+  1. [O que são Git e Github?](https://www.youtube.com/watch?v=P4BNi_yPehc) ✅
 
-  1. [O que é Github](https://www.youtube.com/watch?v=ZDo_f3ZibFA)
+  1. [O que é Github](https://www.youtube.com/watch?v=ZDo_f3ZibFA) ✅
 
 ---
 
