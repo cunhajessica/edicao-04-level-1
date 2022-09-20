@@ -2,7 +2,7 @@
 
 Assista ao vídeo:
 
-  1. [Estruturas de repetição](https://www.youtube.com/watch?v=FhuqrLaeN34)
+  1. [Estruturas de repetição](https://www.youtube.com/watch?v=FhuqrLaeN34) ✅
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
 
@@ -10,11 +10,11 @@ Assista ao vídeo:
 
 #### _Material complementar:_
 
-* [Estruturas de repetição em JavaScript](https://programandosolucoes.dev.br/2021/03/23/estruturas-de-repeticao/)
+* [Estruturas de repetição em JavaScript](https://programandosolucoes.dev.br/2021/03/23/estruturas-de-repeticao/) ✅
 
 ---
 
-#### _Exercícios:_
+#### _Exercícios:_ ✅
 
 Lembre-se que, para obter o tamanho de um array, é usada a expressão `nomeDoArray.length`. Ex.: 
 ```javascript
@@ -40,6 +40,19 @@ nomesComuns = ["Miguel", "Laura", "Lucas", "Beatriz", "Guilherme", "Maria", "Gab
 ```
 
 _**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos](resolucao.md) eles._
+
+---
+
+_Minha Resposta:_
+
+1)
+![Exerc1](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula08/aula8Exer1.jpg)
+
+2)
+![Exerc2](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula08/Aula8Exerc2.jpg)
+
+3)
+![Exerc3](https://github.com/cunhajessica/edicao-04-level-1/blob/main/03-logica-de-programacao/aula08/Aula8Exerc3.jpg)
 
 ---
 
