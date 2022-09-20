@@ -10,10 +10,10 @@ Os vídeos não são necessariamente dos mesmos canais, portanto procure assisti
 - [Aula #05 - Operadores](aula05/aula.md) ✅
 - [Aula #06 - Condicionais](aula06/aula.md) ✅
 - [Aula #07 - Vetores, matrizes e arrays](aula07/aula.md) ✅
-- [Aula #08 - Estruturas de repetição](aula08/aula.md) 
-- [Aula #09 - Funções, procedimentos e comentários](aula09/aula.md)
-- [Aula #10 - Juntando tudo](aula10/aula.md)
-- [Aula #11 - Exercício Final](aula11/aula.md)
+- [Aula #08 - Estruturas de repetição](aula08/aula.md) ✅
+- [Aula #09 - Funções, procedimentos e comentários](aula09/aula.md) ✅
+- [Aula #10 - Juntando tudo](aula10/aula.md) ✅
+- [Aula #11 - Exercício Final](aula11/aula.md) ✅
 
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-04-level-1/issues/1).
 
