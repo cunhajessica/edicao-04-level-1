@@ -2,7 +2,7 @@
 
 Este módulo visa mostrar um pouco sobre as práticas adotadas no processo de desenvolvimento de software.
 
-- [Aula #01 - Introdução aos Métodos Ágeis](aula01/aula.md)
+- [Aula #01 - Introdução aos Métodos Ágeis](aula01/aula.md) ✅
 - [Aula #02 - Introdução ao Scrum](aula02/aula.md)
 - [Aula #03 - Introdução ao Kanban](aula03/aula.md)
 
